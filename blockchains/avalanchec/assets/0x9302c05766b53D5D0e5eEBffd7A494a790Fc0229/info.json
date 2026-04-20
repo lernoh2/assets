@@ -1,1 +1,11 @@
-
+{
+  "name": "Garetto_V9",
+  "symbol": "G-ETTO_V9",
+  "type": "ERC777",
+  "decimals": 18,
+  "description": "Token with and integrated redistribution mechanism",
+  "website": "https://garetto.top",
+  "explorer": "https://snowtrace.io/token/0x9302c05766b53D5D0e5eEBffd7A494a790Fc0229",
+  "status": "active",
+  "id": "0x9302c05766b53D5D0e5eEBffd7A494a790Fc0229"
+}
