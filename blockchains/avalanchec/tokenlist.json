@@ -3,6 +3,16 @@
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
     "timestamp": "2022-06-16T17:19:11.183301",
     "tokens": [
+          {
+            "asset": "c10009000_t0x9302c05766b53D5D0e5eEBffd7A494a790Fc0229",
+            "type": "AVALANCHE",
+            "address": "0x9302c05766b53D5D0e5eEBffd7A494a790Fc0229",
+            "name": "Garetto_V9",
+            "symbol": "G-ETTO_V9",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x9302c05766b53D5D0e5eEBffd7A494a790Fc0229/logo.png",
+            "pairs": []
+        },
         {
             "asset": "c10009000_t0x8b82A291F83ca07Af22120ABa21632088fC92931",
             "type": "AVALANCHE",
